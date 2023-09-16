@@ -7,7 +7,7 @@
 ###
 Introducing my name is Taffan Muhammad Rizqi, a college student, from Indonesia.
 
-I'm majoring Computer Science & Engineering. 💻
+I'm majoring Informatics. 💻
 
 So yeah, that's it.
 
