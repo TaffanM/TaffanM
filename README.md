@@ -9,9 +9,9 @@ Introducing my name is Taffan Muhammad Rizqi, a college student, from Indonesia.
 
 I'm majoring Informatics. 💻
 
-So yeah, that's it.
+Interested in Mobile Development 📱
 
-Thanks
+Thanks for visiting!
 
 ### Github Statistic
 <p align="left">
