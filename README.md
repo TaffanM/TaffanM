@@ -1,17 +1,16 @@
 ### ```Hello there 👋```
-# Welcome to my profile!
+# Welcome to my GitHub profile!
 <!--
 **TaffanM/TaffanM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !-->
 ###
 ###
-Introducing my name is Taffan Muhammad Rizqi, a college student, from Indonesia.
+I'm Taffan Muhammad Rizqi, a college student from Indonesia.
 
-I'm majoring in Informatics. 💻
+I'm majoring in Informatics and have a keen interest in Mobile Development 📱. 
 
-Have a keen Interest in Mobile Development 📱
+Thanks for visiting my profile!
 
-Thanks for visiting!
 
 
 ### Let's connect!
@@ -25,8 +24,8 @@ Thanks for visiting!
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/TaffanM">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TaffanM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-vercel-mocha.vercel.app/api/top-langs/?username=TaffanM&size_weight=0.5&count_weight=0.5&theme=dracula&layout=compact&hide=Shell,Blade,Hack&langs_count=8&exclude_repo=github-readme-stats,GUI-Delphi-Coffee-Shop"/>
 </a>
 </p>
 
